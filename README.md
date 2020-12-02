@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning - GitHub Actions
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: I'm on twitter [@neilpmas](https://twitter.com/neilpmas)
 
 <!--
 **neilpmas/neilpmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
