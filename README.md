@@ -1,19 +1,11 @@
-### Hi there 👋
-- 🌱 I’m currently learning - GitHub Actions
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: I'm on twitter [@neilpmas](https://twitter.com/neilpmas)
+### Hi, I'm Neil 👋
 
-<!--
-**neilpmas/neilpmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack apps and the tools around them: React and Cloudflare on the front, Spring Boot behind. Based in Brisbane, Australia.
 
-Here are some ideas to get you started:
+## Things I make
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Avotoast](https://github.com/neilpmas/avotoast)**: my opinionated full-stack starter. React on Cloudflare, Spring Boot on Fly.io, auth by Bezzie. *Full-stack, toasted my way.*
+- **[Bezzie](https://github.com/neilpmas/bezzie)**: a BFF OAuth 2.0 auth library for Cloudflare Workers.
+- **[connectrpc-spring-boot](https://github.com/neilpmas/connectrpc-spring-boot)**: Spring Boot autoconfiguration and starter for connectrpc-spring.
+
+🌐 [neilmason.dev](https://neilmason.dev) · 😄 He/him
